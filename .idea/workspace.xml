@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf62063c-b55f-4b3d-87e4-394d8d9fe3f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module/math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/--new--.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Class &amp; object.pt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Classes..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Default Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Encapsulation/Getter &amp; setter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Encapsulation/fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Encapsulation/property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inhertance/inhertance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inhertance/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/Csv &amp; json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/Demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python All.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python All.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatype.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3A54nm2Gxf5ToEXb35SYDy7YQct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.--new--.executor": "Run",
+    "Python.Class & object.pt.executor": "Run",
+    "Python.Classes..executor": "Run",
+    "Python.ControlFlow.executor": "Run",
+    "Python.Default Constructor.executor": "Run",
+    "Python.Demo.executor": "Run",
+    "Python.Demo1.executor": "Run",
+    "Python.Dictionaries.executor": "Run",
+    "Python.Getter & setter.executor": "Run",
+    "Python.IdentityOperators.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Map.executor": "Run",
+    "Python.Membership.executor": "Run",
+    "Python.Operator.executor": "Run",
+    "Python.Qrcode.executor": "Run",
+    "Python.String Methods.executor": "Run",
+    "Python.StringIndexing.executor": "Run",
+    "Python.StringSlicing.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.datatype.executor": "Run",
+    "Python.fast.executor": "Run",
+    "Python.filter.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.inhertance.executor": "Run",
+    "Python.loop.executor": "Run",
+    "Python.loopwhile.executor": "Run",
+    "Python.loopwhile1.executor": "Run",
+    "Python.math.executor": "Run",
+    "Python.method.executor": "Run",
+    "Python.paaswoed.executor": "Run",
+    "Python.property.executor": "Run",
+    "Python.reduce.executor": "Run",
+    "Python.set.executor": "Run",
+    "Python.simple.executor": "Run",
+    "Python.typecasting.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Python All",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf62063c-b55f-4b3d-87e4-394d8d9fe3f0" name="Changes" comment="" />
+      <created>1771869266510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771869266510</updated>
+    </task>
+    <servers />
+  </component>
+</project>

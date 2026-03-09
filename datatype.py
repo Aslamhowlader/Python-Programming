@@ -1,4 +1,5 @@
-"""a=12 #int
+"""
+a=12 #int
 b=12.34 #float
 c=2.9999999 #double
 d="Aslam is good Student" # string
